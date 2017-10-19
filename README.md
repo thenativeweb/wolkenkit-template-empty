@@ -5,7 +5,7 @@ wolkenkit-template-empty is an empty template for wolkenkit applications.
 ## Quick start
 
 ```shell
-$ wolkenkit init --template git@github.com:thenativeweb/wolkenkit-template-empty.git
+$ wolkenkit init --template https://github.com/thenativeweb/wolkenkit-template-empty.git
 ```
 
 ## License
